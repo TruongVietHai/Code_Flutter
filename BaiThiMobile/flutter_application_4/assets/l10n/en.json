@@ -1,0 +1,44 @@
+{
+  "app_title": "Pixabay Gallery",
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "login_btn": "Login",
+    "no_account": "Don't have account?",
+    "register_here": "Register here",
+    "invalid_email": "Invalid email",
+    "invalid_password": "Invalid password",
+    "login_failed": "Login failed"
+  },
+  "register": {
+    "title": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "register_btn": "Register",
+    "password_requirements": "Min 8 chars, 1 uppercase, 1 number, 1 symbol",
+    "already_have_account": "Already have account?",
+    "login_here": "Login here",
+    "password_not_match": "Passwords do not match",
+    "register_success": "Register success"
+  },
+  "home": {
+    "title": "Search Images",
+    "search": "Search images",
+    "category": "Category",
+    "favorites": "Favorites",
+    "uploads": "My Uploads",
+    "logout": "Logout",
+    "dark_mode": "Dark mode"
+  },
+  "common": {
+    "all": "All",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "error": "Error",
+    "success": "Success"
+  }
+}

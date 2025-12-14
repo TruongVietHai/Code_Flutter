@@ -1,0 +1,44 @@
+{
+  "app_title": "Pixabay 图库",
+  "login": {
+    "title": "登录",
+    "email": "邮箱",
+    "password": "密码",
+    "remember_me": "记住我",
+    "login_btn": "登录",
+    "no_account": "没有账户?",
+    "register_here": "点击注册",
+    "invalid_email": "邮箱无效",
+    "invalid_password": "密码无效",
+    "login_failed": "登录失败"
+  },
+  "register": {
+    "title": "注册",
+    "email": "邮箱",
+    "password": "密码",
+    "confirm_password": "确认密码",
+    "register_btn": "注册",
+    "password_requirements": "最少8个字符，1个大写，1个数字，1个特殊符号",
+    "already_have_account": "已有账户?",
+    "login_here": "点击登录",
+    "password_not_match": "密码不匹配",
+    "register_success": "注册成功"
+  },
+  "home": {
+    "title": "搜索图片",
+    "search": "搜索图片",
+    "category": "分类",
+    "favorites": "收藏",
+    "uploads": "我的上传",
+    "logout": "登出",
+    "dark_mode": "深色模式"
+  },
+  "common": {
+    "all": "全部",
+    "cancel": "取消",
+    "delete": "删除",
+    "confirm": "确认",
+    "error": "错误",
+    "success": "成功"
+  }
+}

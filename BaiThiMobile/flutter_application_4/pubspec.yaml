@@ -1,0 +1,44 @@
+name: flutter_application_4
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons & internet
+  cupertino_icons: ^1.0.8
+  http: ^1.2.0
+  cached_network_image: ^3.3.1
+  flutter_staggered_grid_view: ^0.7.0
+  shimmer: ^3.0.0
+  universal_html: ^2.2.4
+  file_picker: ^10.3.7
+  
+  # Persistence & Storage
+  shared_preferences: ^2.2.0
+  
+  # Localization
+  easy_localization: ^3.0.0
+  intl: ^0.20.2
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/auth_bg.jpg
+    - assets/l10n/
+  
+  generate: true
+
